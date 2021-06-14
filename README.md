@@ -1,16 +1,20 @@
-# balanco_app
+# Balanço Mobile
 
-Aplicativo de balanço de estoque.
+Aplicativo de Contagem e Balanço de Estoque, posivel realizar a Conferência de Entrada e Saída de Mercadorias e a Guarda de Produtos em Estoque.
 
-## Getting Started
+Esse App apresenta formas de implementação que são do tipo reaproveitaveis, ou seja, foi realizado o desenvolvimento de componentes que serão utilizados apenas no app de forma geral.
+ 
+ Totalmente realizado co Flutter e utilizado as seguintes tecnologias:
+  * API;
+  * REST;
+  * Leitura de dados criptografados em base 64;
+  * Leitura de código de barras padrão e QRCode;
+  
+  	
+*** ATENÇÃO: Esse App utiliza API privada, ou seja não será possivel a utilização dele sem a senha para acesso.
 
-This project is a starting point for a Flutter application.
+# Autor
 
-A few resources to get you started if this is your first Flutter project:
+Fernando Alexandre Wahl
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Linkedin: https://www.linkedin.com/in/fernando-alexandre-wahl-4246b053/
